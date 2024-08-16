@@ -7,12 +7,8 @@ C
 dependencies.gradle,9/2/9282de42fdd92f96bfdaa8eed76823d133cf1624
 M
 AuthMicroService/build.gradle,1/8/18b384ed982738fb78cd0af553c30bf1017c0646
-d
-4AuthMicroService/src/main/java/com/example/Main.java,2/2/22514c16d19ef4770854c07fdf2c8d51577dd384
 M
 UserMicroService/build.gradle,1/2/12594e5fc1ea6a522b3289617e61577532a0e66f
-d
-4UserMicroService/src/main/java/com/example/Main.java,1/d/1d41252310b552dbc629bc82ee648b3e11926fec
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 o
@@ -28,13 +24,9 @@ Q.idea/sonarlint/securityhotspotstore/c/f/cfc57b227a44432e6e22ac7fd2bc6345969e57
 w
 G.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233,3/c/3c8c56407c35e5f5ebbd6c7250a79af8128a13a6
 Å
-Q.idea/sonarlint/securityhotspotstore/2/2/22514c16d19ef4770854c07fdf2c8d51577dd384,d/a/da1d6dd4e1dadd4823c8b1aca11938e0917310d0
-Å
 Q.idea/sonarlint/securityhotspotstore/1/2/12594e5fc1ea6a522b3289617e61577532a0e66f,d/e/dedd6d6c7827f530f660a5d9f3383509636abe4e
 Å
 Q.idea/sonarlint/securityhotspotstore/1/8/18b384ed982738fb78cd0af553c30bf1017c0646,6/b/6bc17e71fca6cce2bc34c4c7ead4a0d72c78d194
-Å
-Q.idea/sonarlint/securityhotspotstore/1/d/1d41252310b552dbc629bc82ee648b3e11926fec,d/6/d659d4bcf0121e7c6b60a9dbc6c1762797d625c1
 Å
 Q.idea/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f38737233,2/5/2534b7ffebad46793fc4d77da07aca83b23dd835
 ]
@@ -45,5 +37,13 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 w
 G.idea/sonarlint/issuestore/1/8/18b384ed982738fb78cd0af553c30bf1017c0646,2/d/2d7773526066f23651db65f95b83b56ccb37c5f0
-w
-G.idea/sonarlint/issuestore/1/d/1d41252310b552dbc629bc82ee648b3e11926fec,0/5/058cb7ee5f8ee526706c50e96c34768b626811e3
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+k
+;AuthMicroService/src/main/java/com/example/entity/Auth.java,a/b/ab2e82d7355b9d8e945e68d793e4c4226f6b78ac
+y
+IAuthMicroService/src/main/java/com/example/repository/AuthRepository.java,3/8/38d42ee7708bdd3e1dee737d9c80d90450eaf777
+s
+CAuthMicroService/src/main/java/com/example/service/AuthService.java,8/2/8241f035a5b6caa07709364e74cb32ff89ec5c97
+y
+IAuthMicroService/src/main/java/com/example/controller/AuthController.java,1/5/152c34eb4dcace0d030092d08e3aeb44d7a94f0c
