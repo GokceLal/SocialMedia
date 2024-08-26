@@ -53,9 +53,6 @@ NAuthMicroService/src/main/java/com/example/dto/request/RegisterRequestDto.java
 LAuthMicroService/src/main/java/com/example/dto/request/LoginResponseDto.java,e/3/e38550baec26dd0675ff2b842ae39971a4c4d5bc
 o
 ?AuthMicroService/src/main/java/com/example/config/RestApÄ±.java,2/8/287102b92585834a892848895272d06f3a98c8ae
-:
-
-Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 t
 DUserMicroService/src/main/java/com/example/document/UserProfile.java,1/1/11baccd0c27eb76738fc97c031c1594859275385
 €
@@ -68,3 +65,7 @@ PUserMicroService/src/main/java/com/example/controller/UserProfileController.jav
 PUserMicroService/src/main/java/com/example/dto/request/CreateUserRequestDto.java,2/2/22e0ce8858ece851fe4c156d456c3087cb96c909
 n
 >UserMicroService/src/main/java/com/example/config/RestApi.java,8/8/88040b346e57a462a53f63f7f565afbb4582d8c1
+z
+JAuthMicroService/src/main/java/com/example/manager/UserProfileManager.java,9/a/9ae105cdeb0538ea0ed01e07af4558c44999ec36
+€
+PAuthMicroService/src/main/java/com/example/dto/request/CreateUserRequestDto.java,7/3/73ea34f28a5b454bcfb5078e2990a7a6df8f4d4b
