@@ -9,5 +9,4 @@ public class RestApi {
     public static final String GET_ALL = "/get-all";
 
 
-
 }
