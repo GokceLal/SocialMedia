@@ -6,7 +6,6 @@ import com.example.repository.UserProfileRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.cache.CacheManager;
 import org.springframework.cache.annotation.Cacheable;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
